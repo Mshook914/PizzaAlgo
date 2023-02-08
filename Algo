@@ -3,14 +3,24 @@ Decide Which pizza resturant location
 Find menu of business
 Decide which pizza you'd like
 Decide which size you would like
+Decide which toppings you'd like
+Decide which crust you want 
 Look at side menu
 Decide if you would like any of the sides the business offers
 Figure out method of payment 
 Gather method of payment
-Call pizza resturant location
+If picking pick up pizza from pizza resturant: drive to location. Enter into resturant and aproach customer service counter.
+    Give customer service representative your name for your order.
+    Wait for customer service representative to find order.
+    Recieve order.
+    Give method of payment.
+    Recieve Method of payment back if necessary.
+    Take Receipt.
+    Leave resturant.
+If receiving pizza by delivery: call pizza resturant location
 Give customer service representative your order
 Wait for conformation
-Give customer serivce representative the address where you would like the pizza delivered
+Give customer serivce representative the address where you would like the pizza delivered 
 Wait for conformation
 Tell the customer service representative your method of payment. If the method of payment is a credit or debit card, tell customer service the card number.
 Wait for conformation
